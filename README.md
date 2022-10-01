@@ -35,3 +35,5 @@ You can use your creativity to design better templates.
 
 You can use any frontend technologies. React.js is preferred.
 You can use already available react npm packages for generating resumes. Any open API also can be used for generating resume templates.
+
+# For any doubts and questions you can mail to : hr.caliber.team@gmail.com
