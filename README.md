@@ -1,5 +1,9 @@
 # HacktoberFest-22-ResumeBuilder
 
+## Best projects will get interview opportunity for Software Development Internship at Caliber 🚀💻
+
+### ❗ Submit your pull request as a folder with your name
+
 You have to build a resume generator given a json value containing all parameters. This json data has be shown in a resume template.
 
 Example json:
