@@ -1,0 +1,32 @@
+.mainDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(148deg, #01B5FF 11.5%, #3E3F44 11.6%);
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+}
+
+.name {
+    display: block;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    color: white;
+    letter-spacing: .1rem;
+}
+
+.name span{
+    color: #01B5FF;
+}
+
+.infoDiv{
+    display: flex;
+    width: 80%;
+}
+
+.infoDiv i {
+    padding: .5rem .5rem 0 0;
+}

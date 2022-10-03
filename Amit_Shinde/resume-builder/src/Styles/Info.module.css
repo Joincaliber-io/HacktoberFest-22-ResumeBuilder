@@ -1,0 +1,23 @@
+.mainDiv{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    /* color: white; */
+    margin: .2rem 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.mainDiv p:first-child {
+    font-size: .9rem;
+    font-weight: 500;
+}
+
+.text {
+    font-size: .7rem;
+}
+
+.moreInfo {
+    margin-top: .4rem;
+    font-size: .8rem;
+    max-width: 90%;
+}

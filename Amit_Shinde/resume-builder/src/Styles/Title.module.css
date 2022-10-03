@@ -1,0 +1,54 @@
+.mainDiv {
+  position: relative;
+  display: block;
+  width: 80%;
+  color: white;
+}
+
+.mainDiv::before {
+  content: "";
+  background-color: #fff;
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  top: 0;
+  right: 0;
+}
+
+.mainDiv::after {
+  content: "";
+  background-color: #fff;
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  bottom: 0;
+  right: 0;
+}
+
+.mainDivInfo {
+  position: relative;
+  display: block;
+  width: 100%;
+  color: black;
+}
+
+.mainDivInfo::before {
+  content: "";
+  background-color: #000;
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  top: 0;
+  right: 0;
+}
+
+.mainDivInfo::after {
+  content: "";
+  background-color: #000;
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  bottom: 0;
+  right: 0;
+}
+
